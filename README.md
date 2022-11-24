@@ -1,38 +1,32 @@
 # belajar-github
 
-<p>
-        <br> git init => untuk inisialisasi projek
-        <br> git clone "link github projek "=> ambil projek dari github
+         git init => untuk inisialisasi projek
+         git clone "link github projek "=> ambil projek dari github
 
-        <br> tanda U di file => undififie
-        <br> tanda M di file => Modified
+         tanda U di file => undififie
+         tanda M di file => Modified
 
-        <br> git add -A => menambah semua file yang ada di projek agar di pantau
-        <br> git commit -m "pesan" => menyimpan perubahan pencatatan data,
-        <br> sebelum melakukan commit pastikan file U atau M sudah di git add -A dahulu
+         git add -A => menambah semua file yang ada di projek agar di pantau
+         git commit -m "pesan" => menyimpan perubahan pencatatan data,
+         sebelum melakukan commit pastikan file U atau M sudah di git add -A dahulu
 
-        <br> git status => melihat status
+         git status => melihat status
 
-        <br> git log => melihat riwayat commit
-        <br> git diff => melihat perubahan file
+         git log => melihat riwayat commit
+         git diff => melihat perubahan file
 
-        <br> .gitignore => pengecualian file
-    </p>
+         .gitignore => pengecualian file
 
-    <p>
-        <br> branch = cabang
-        <br> git branch => melihat cabang
-        <br> git branch nama-cabang => membuat cabang
-        <br> git checkout nama-cabang => masuk ke cabang tertentu
-        <br> git merge nama-cabang => masuk ke cabang tertentu
-        <br> git branch -D nama-cabang => hapus cabang tertentu
-        <br> git branch -D nama-cabang cabang-lain => hapus cabang lebih dari 1
-    </p>
+         branch = cabang
+         git branch => melihat cabang
+         git branch nama-cabang => membuat cabang
+         git checkout nama-cabang => masuk ke cabang tertentu
+         git merge nama-cabang => masuk ke cabang tertentu
+         git branch -D nama-cabang => hapus cabang tertentu
+         git branch -D nama-cabang cabang-lain => hapus cabang lebih dari 1
 
-    <p>
-        <br> remote repositiry
+remote repositiry
 
-        <br> git remote add main link-github => connect di local dan repository github
-        <br> git push main master => upload file ke repository
-        <br> git pull main master => download file dari repository
-    </p>
+         git remote add main link-github => connect di local dan repository github
+         git push main master => upload file ke repository
+         git pull main master => download file dari repository
